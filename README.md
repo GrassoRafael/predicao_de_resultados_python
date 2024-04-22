@@ -7,11 +7,13 @@ Nosso objetivo é identificar o quanto os dados estão dispersos com representa�
 # Conclusão
 1. Foi identificado uma baixa dispersão dos valores, utilizando um histogramada e um gráfico box.
    ![image](https://github.com/GrassoRafael/predicao_de_resultados_python/assets/150485894/63c067b0-65db-4b44-b07c-78c088fe9500)
+   ![image](https://github.com/GrassoRafael/predicao_de_resultados_python/assets/150485894/9dafa7ed-232c-4304-bab1-d6f82349b266)
 
-2. Ao realizar a leitura das correlações, foi identificado que o fator "Avg_Area_Income" é o que mais impacta no preço das casas, chegamos a essa conclusão, após criar um gráfico (pairplot) para identificar correlação entre todas as variáveis da tabela, utilizando o gráfico de heatmap, pudemos numerar o quanto esse valor é correlacionado com preço.
+
+3. Ao realizar a leitura das correlações, foi identificado que o fator "Avg_Area_Income" é o que mais impacta no preço das casas, chegamos a essa conclusão, após criar um gráfico (pairplot) para identificar correlação entre todas as variáveis da tabela, utilizando o gráfico de heatmap, pudemos numerar o quanto esse valor é correlacionado com preço.
  ![image](https://github.com/GrassoRafael/predicao_de_resultados_python/assets/150485894/3877a553-01c1-427f-88fb-9fa56cc9784c)
 
-3. Realizamos um teste de variável onde alcançamos um valor de 91.47% de variabilidade, que explica grande parte da variação observada.
+4. Realizamos um teste de variável onde alcançamos um valor de 91.47% de variabilidade, que explica grande parte da variação observada.
    ![image](https://github.com/GrassoRafael/predicao_de_resultados_python/assets/150485894/f3a3b440-1869-4c0a-9388-236a08c51028)
 
 4 . Nosso modelo preditivo alcançou bons resultados em comparação com a base de teste. 
